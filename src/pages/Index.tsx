@@ -1,9 +1,7 @@
-// Update this page (the content is just a fallback if you fail to update the page)
-
-import MVPDemo from '../components/MVPDemo';
+import MapApp from '../components/MapApp';
 
 const Index = () => {
-  return <MVPDemo />;
+  return <MapApp />;
 };
 
 export default Index;
